@@ -68,5 +68,3 @@ A modern room booking and hotel management system designed to make finding and l
 <img width="1019" height="994" alt="Capture2" src="https://github.com/user-attachments/assets/5139d4cd-87b5-45f2-aa08-ffdb3aef04c7" />
 <img width="1019" height="868" alt="Capture1" src="https://github.com/user-attachments/assets/7a679149-eff6-43e0-b7d3-e6517d651914" />
 <img width="1019" height="868" alt="Capture" src="https://github.com/user-attachments/assets/81eceacd-0d84-47cb-a94c-5a3b62d5bba0" />
-
-
